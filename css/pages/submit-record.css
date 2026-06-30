@@ -1,0 +1,73 @@
+.page-submit-record {
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+}
+
+.page-submit-record .submit-record-container {
+    width: 100%;
+    max-width: 32rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.page-submit-record .submit-record-description {
+    color: #666;
+}
+
+main.dark .page-submit-record .submit-record-description {
+    color: #aaa;
+}
+
+.page-submit-record .submit-record-form {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    align-items: stretch;
+}
+
+.page-submit-record .submit-record-form input[type="text"],
+.page-submit-record .submit-record-form input[type="url"] {
+    border: 2px solid var(--color-background-hover);
+    border-radius: 0.5rem;
+    padding: 0.75rem 1rem;
+    background-color: var(--color-background);
+    color: var(--color-on-background);
+    font: inherit;
+}
+
+.page-submit-record .submit-record-form input[type="text"]:focus,
+.page-submit-record .submit-record-form input[type="url"]:focus {
+    outline: none;
+    border-color: var(--color-primary);
+}
+
+.page-submit-record .submit-record-form .check {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+    margin-top: 0.5rem;
+}
+
+.page-submit-record .submit-record-hint {
+    color: #666;
+    margin-top: -0.25rem;
+}
+
+main.dark .page-submit-record .submit-record-hint {
+    color: #aaa;
+}
+
+.page-submit-record .submit-record-error {
+    color: var(--color-error);
+}
+
+.page-submit-record .submit-record-success {
+    color: #00b54b;
+}
+
+.page-submit-record .submit-record-form .btn {
+    margin-top: 0.5rem;
+    align-self: flex-start;
+}
