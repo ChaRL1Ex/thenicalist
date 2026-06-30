@@ -1,0 +1,30 @@
+{
+    "id": 48175126,
+    "name": "Idols",
+    "author": "Zafkiel7",
+    "creators": ["not found"],
+    "verifier": "MrChespin",
+    "verification": "https://www.youtube.com/watch?v=qZgszHQaiYg",
+    "percentToQualify": "100",
+    "password": "free",
+    "records": [
+{
+            "user": "LobyGamer",
+            "link": "https://www.youtube.com/watch?v=DLYtESNAJto",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "PanchitoNica",
+            "link": "https://www.youtube.com/watch?v=bbz0F4chDQE&t=2s",
+            "percent": 100,
+            "hz": 360
+        },
+         {
+            "user": "S0lRAk",
+            "link": "https://www.youtube.com/watch?v=rHWNlvWQL68&t=5s",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "id": 10565740,
+    "name": "Bloodbath",
+    "author": "Riot",
+    "creators": ["Not found"],
+    "verifier": "ClickDash",
+    "verification": "https://www.youtube.com/watch?v=TZ1ED9cIyfU",
+    "percentToQualify": "100",
+    "password": "free",
+    "records": [
+{
+            "user": "S0lRAk",
+            "link": "https://youtu.be/PunZsGR6-8o?si=pFDfnpv5BWr0qjm4",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Silla",
+            "link": "https://www.youtube.com/watch?v=qTURJnk-HB4",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "PanchitoNica",
+            "link": "https://youtu.be/mwtT16-01O0?si=8N5Ot6Y423w4xx04",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "UriDont7",
+            "link": "https://www.youtube.com/watch?v=opak_Xc0m8M",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "KnowledgeCath",
+            "link": "https://www.youtube.com/watch?v=IewrYRuUD6U",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Dateaser",
+            "link": "https://www.youtube.com/watch?v=wyyG19DK-KQ&t=1s",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "LiuhxGD",
+            "link": "https://www.youtube.com/watch?v=VFpCFXwPfWk",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
