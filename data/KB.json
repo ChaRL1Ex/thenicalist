@@ -1,0 +1,18 @@
+{
+    "id": 38754426,
+    "name": "Killbot",
+    "author": "BoldStep",
+    "creators": ["not found"],
+    "verifier": "GatoGeometrico9",
+    "verification": "https://www.youtube.com/watch?v=cG-Ut2FSYig",
+    "percentToQualify": "100",
+    "password": "free",
+    "records": [
+{
+            "user": "PanchitoNica",
+            "link": "https://youtu.be/b6Fd81quMG8?si=9QhniBxlfg8rVD8Y",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
