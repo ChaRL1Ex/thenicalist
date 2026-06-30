@@ -1,0 +1,24 @@
+{
+    "id": 57433866,
+    "name": "BuTiTi III",
+    "author": "JonathanGD",
+    "creators": ["JonathanGD"],
+    "verifier": "MrChespin",
+    "verification": "https://www.youtube.com/watch?v=GgpIe_f-yVw",
+    "percentToQualify": "100",
+    "password": "free",
+    "records": [
+{
+            "user": "AdielDavidyt",
+            "link": "https://youtu.be/3oJiNV0irjQ?si=adJOk5afnu56Yys_",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "KirbySquare",
+            "link": "https://youtu.be/vpNBxf9ZdDQ?si=Hl7rHwqC_CLishfJ",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
