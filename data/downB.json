@@ -2,17 +2,20 @@
     "id": 8147005,
     "name": "Down Bass",
     "author": "Spectruh",
-    "creators": ["WoodedGold","Exterys Valyrie"],
+    "creators": [
+        "WoodedGold",
+        "Exterys Valyrie"
+    ],
     "verifier": "ClickDash",
     "verification": "https://www.youtube.com/watch?v=fblQl6lwbd8",
     "percentToQualify": "100",
     "password": "free",
     "records": [
-{
+        {
             "user": "GatoGeometrico9",
             "link": "http://youtube.com/watch?v=Yv7bTnmCyAs",
             "percent": 100,
-            "hz": 360
+            "device": "mobile"
         }
     ]
 }

@@ -1,0 +1,51 @@
+{
+    "id": 83825373,
+    "name": "Overtime",
+    "author": "KlaurosssS",
+    "creators": [
+        "N3moProd",
+        "KlaurosssS",
+        "LaserSword33",
+        "ISSLOL",
+        "Retro Head",
+        "Airtime [GD]",
+        "WaRiox",
+        "Ellisha",
+        "Ji",
+        "AbysS",
+        "Hir0shi",
+        "UltraS4",
+        "Vyzion",
+        "rZary_"
+    ],
+    "verifier": "MrChespin",
+    "verification": "https://www.youtube.com/watch?v=n2T_DBrA3S0",
+    "percentToQualify": "100",
+    "password": "free",
+    "records": [
+        {
+            "user": "ayZuku",
+            "link": "https://youtu.be/fsZmMwvSois?si=1AYMRvbimz4LD603",
+            "percent": 100,
+            "device": "pc"
+        },
+        {
+            "user": "PanchitoNica",
+            "link": "https://youtu.be/I286VfGztdE?si=Q9VU7VDRjGLe4umg",
+            "percent": 100,
+            "device": "pc"
+        },
+        {
+            "user": "S0lRAk",
+            "link": "https://youtu.be/D9ainPXgrIE?si=v_MG0yUQvyKiTAJE",
+            "percent": 100,
+            "device": "pc"
+        },
+        {
+            "user": "YukiGMD",
+            "link": "https://youtu.be/k1zJob_vQVA?si=xo6tLHVkgipkG8fU",
+            "percent": 100,
+            "device": "pc"
+        }
+    ]
+}

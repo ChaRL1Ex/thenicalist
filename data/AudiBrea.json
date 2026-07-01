@@ -2,12 +2,14 @@
     "id": 51791710,
     "name": "Auditory Breaker",
     "author": "LazerBlitz",
-    "creators": ["LazerBlitz", "Cyclic", "Manix648"],
+    "creators": [
+        "LazerBlitz",
+        "Cyclic",
+        "Manix648"
+    ],
     "verifier": "ClickDash",
     "verification": "https://www.youtube.com/watch?v=d3_4fNmfXCQ",
     "percentToQualify": "100",
     "password": "free",
-    "records": [
-
-    ]
+    "records": []
 }

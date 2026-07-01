@@ -2,12 +2,12 @@
     "id": 134430850,
     "name": "GREFG",
     "author": "ReymundoTK",
-    "creators": ["not found"],
+    "creators": [
+        "not found"
+    ],
     "verifier": "S0lRAk",
     "verification": "https://www.youtube.com/watch?v=Gu7xMz_k5ME",
     "percentToQualify": "100",
     "password": "free",
-    "records": [
-
-    ]
+    "records": []
 }

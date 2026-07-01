@@ -2,17 +2,19 @@
     "id": 64658786,
     "name": "Wasureta",
     "author": "Helpegasus",
-    "creators": ["not found"],
+    "creators": [
+        "not found"
+    ],
     "verifier": "S0lRAk",
     "verification": "https://youtu.be/vtWMNxYlMGs?si=rLV-lWGqnPmAERqg",
     "percentToQualify": "100",
     "password": "46290",
     "records": [
-{
+        {
             "user": "Lokoman",
             "link": "https://youtu.be/75sTX-T2uWE?si=Fu7OLc6Y2Gm6uw4x",
             "percent": 100,
-            "hz": 360
+            "device": "pc"
         }
     ]
 }

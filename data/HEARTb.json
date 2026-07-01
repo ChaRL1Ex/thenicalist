@@ -1,18 +1,18 @@
 {
-    "id": 38754426,
-    "name": "Killbot",
-    "author": "BoldStep",
+    "id": 20321297,
+    "name": "Heartbeat (KrmaL)",
+    "author": "Krmal",
     "creators": [
-        "not found"
+        "Krmal"
     ],
     "verifier": "GatoGeometrico9",
-    "verification": "https://www.youtube.com/watch?v=cG-Ut2FSYig",
+    "verification": "https://www.youtube.com/watch?v=6SzITLzbpuY",
     "percentToQualify": "100",
     "password": "free",
     "records": [
         {
             "user": "PanchitoNica",
-            "link": "https://youtu.be/b6Fd81quMG8?si=9QhniBxlfg8rVD8Y",
+            "link": "https://www.youtube.com/watch?v=mChNx10QM7U",
             "percent": 100,
             "device": "pc"
         }

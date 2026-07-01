@@ -2,12 +2,12 @@
     "id": 94156085,
     "name": "Bloodlust",
     "author": "Knobbelboy",
-    "creators": ["not found"],
+    "creators": [
+        "not found"
+    ],
     "verifier": "S0lRAk",
     "verification": "https://youtu.be/z8xCaFJUyOk",
     "percentToQualify": "100",
     "password": "46290",
-    "records": [
-
-    ]
+    "records": []
 }

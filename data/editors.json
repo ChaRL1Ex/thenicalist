@@ -15,9 +15,14 @@
         "link": "https://youtube.com/@zeroreturngd?si=640omkS5kdfIuEL1"
     },
     {
+        "role": "helper",
+        "name": "theReaper",
+        "link": "https://www.youtube.com/@El_Reaper_GD"
+    },
+    {
         "role": "trial",
         "name": "N/A",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "link": "-"
     },
     {
         "role": "dev",

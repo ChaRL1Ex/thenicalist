@@ -2,12 +2,12 @@
     "id": 58252259,
     "name": "Ethereal Artifice",
     "author": "Zeroya",
-    "creators": ["not found"],
+    "creators": [
+        "not found"
+    ],
     "verifier": "ClickDash",
     "verification": "https://www.youtube.com/watch?v=yx4kgK87znU",
     "percentToQualify": "100",
     "password": "free",
-    "records": [
-
-    ]
+    "records": []
 }

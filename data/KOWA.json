@@ -2,12 +2,12 @@
     "id": 46763581,
     "name": "Kowareta",
     "author": "Gablor",
-    "creators": ["not found"],
+    "creators": [
+        "not found"
+    ],
     "verifier": "Lokoman",
     "verification": "https://youtu.be/_mU8PuNze6I?si=SED_-tqW0WCiMXcM",
     "percentToQualify": "100",
     "password": "46290",
-    "records": [
-
-    ]
+    "records": []
 }

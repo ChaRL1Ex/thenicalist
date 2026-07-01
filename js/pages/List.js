@@ -68,8 +68,8 @@ export default {
                                 <a :href="record.link" target="_blank" class="type-label-lg">{{ record.user }}</a>
                             </td>
                             <td class="device">
-                                <img v-if="record.device === 'mobile'" :src="\`./assets/phone.svg\`" alt="Mobile" style="width: 20px; height: 20px;">
-                                <img v-if="record.device === 'pc'" :src="\`./assets/Pc.svg\`" alt="PC" style="width: 20px; height: 20px;">
+                                <img v-if="record.device === 'mobile'" :src="store.dark ? './assets/mobileL.png' : './assets/phone.svg'" alt="Mobile" style="width: 20px; height: 20px;">
+                                <img v-if="record.device === 'pc'" :src="store.dark ? './assets/pcL.svg' : './assets/Pc.svg'" alt="PC" style="width: 20px; height: 20px;">
                             </td>
                         </tr>
                     </table>

@@ -2,12 +2,12 @@
     "id": 94156085,
     "name": "Shimmer",
     "author": "Amplitron",
-    "creators": ["Amplitron"],
+    "creators": [
+        "Amplitron"
+    ],
     "verifier": "S0lRAk",
     "verification": "https://youtu.be/6jr_DzvhGkU?si=v2oF-RTPulX_ZWWh",
     "percentToQualify": "100",
     "password": "46290",
-    "records": [
-
-    ]
+    "records": []
 }
