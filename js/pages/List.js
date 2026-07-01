@@ -67,11 +67,9 @@ export default {
                             <td class="user">
                                 <a :href="record.link" target="_blank" class="type-label-lg">{{ record.user }}</a>
                             </td>
-                            <td class="mobile">
-                                <img v-if="record.mobile" :src="\`/thenicalist/assets/phone-landscape\${store.dark ? '-dark' : ''}.svg\`" alt="Mobile">
-                            </td>
-                            <td class="hz">
-                                <p>{{ record.hz }}Hz</p>
+                            <td class="device">
+                                <img v-if="record.device === 'mobile'" :src="\`./assets/phone.svg\`" alt="Mobile" style="width: 20px; height: 20px;">
+                                <img v-if="record.device === 'pc'" :src="\`./assets/Pc.svg\`" alt="PC" style="width: 20px; height: 20px;">
                             </td>
                         </tr>
                     </table>
